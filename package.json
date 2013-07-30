@@ -1,0 +1,26 @@
+{
+  "name": "23query",
+  "version": "0.0.1",
+  "description": "A node.js module for querying genome data in the style of jQuery",
+  "private": false,
+  "main": "main",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Maciek416/23query.git"
+  },
+  "engines": {
+    "node": ">= 0.8.14",
+    "npm": "1.1.x"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "dna", "genome", "genetics", "23andme"
+  ],
+  "author": "Maciej Adwent (http://github.com/Maciek416)",
+  "license": "BSD"
+}
